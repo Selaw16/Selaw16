@@ -31,7 +31,7 @@
 
 <div align="left">
 
-  <a aria-label="open.mp logo" href="https://open.mp">
+  <a aria-label="open.mp logo" href="https://www.linkedin.com/in/nicolas-selau-2155a92b2/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a aria-label="open.mp logo" href="https://twitter.com/Selauzera2">
