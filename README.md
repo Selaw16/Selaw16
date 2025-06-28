@@ -59,6 +59,7 @@
   <a href="eusouniko123@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  [![gm](https://img.shields.io/badge/-hso.softwares@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](https://www.google.com/intl/pt_br/gmail/about/)\
 </div>
 
 ###
