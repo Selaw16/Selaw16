@@ -43,6 +43,16 @@
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
 </div>
 
 ###
@@ -52,14 +62,12 @@
 ###
 
 <div align="left">
-  </a>
   <a href="https://www.youtube.com/@nsselau" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="eusouniko123@gmail.com" target="_blank">
+  <a href="selauselau2@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  [![gm](https://img.shields.io/badge/-hso.softwares@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](https://www.google.com/intl/pt_br/gmail/about/)\
 </div>
 
 ###
