@@ -27,9 +27,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Selaw16/count.svg?"  />
-</div>
 
 ###
 
